@@ -1,0 +1,32 @@
+.navbar {
+  background: #222222;
+}
+
+.navbar-container {
+  color: #eaeaea;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 90vw;
+  margin: auto;
+  height: 6rem;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.nav-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav-item {
+  padding: 5px;
+  font-size: 3.5vw;
+}
+/*# sourceMappingURL=navbar.css.map */
